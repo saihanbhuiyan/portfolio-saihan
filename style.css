@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.sai{
+    color: orange;
+}
+.t{
+    color: orange;
+}
+.hulf-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.hulf-width2{
+    width: 40%;
+    float: right;
+    padding-right: 2%;
+    
+}
+.hulf-width2 img{
+    width: 100%;
+    
+}
