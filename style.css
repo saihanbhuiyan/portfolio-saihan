@@ -66,3 +66,55 @@ padding-left: 2%;
     color: white;
     padding: 10px 20px;
 }
+.under-banner{
+    background-image: url("img/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+   
+}
+p{
+    color: dimgrey;
+}
+.next3{
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    width: 40%;
+}
+.color1{
+    color: orange;
+}
+.next4{
+    width: 40%;
+    padding-right: 2%;
+    float: right;
+margin-right: 5%;
+padding-left: 20px;
+}
+.color{
+    color: orange;
+}
+.single-shadow{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+   height: 50%;
+}
+.last-banner{
+    background-image: url("img/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#fulstack{
+    border-left: 5px solid ;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#developer{
+    
+border-left: 5px solid ;
+border-image:linear-gradient(180deg,blue,cyan);
+border-image-slice:1;
+}
+.foot{
+    text-align: center;
+}
